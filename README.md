@@ -38,11 +38,12 @@ This project analyzes user sentiment from **Google Play Store reviews** of the *
 
 ## 🗂️ Folder Structure
 
+```
 x-sentiment-analysis/
 ├── Sentimen_Analisis_Aplikasi_X_Google_Play_Store.ipynb
 ├── assets/ # Images or wordclouds (optional)
 ├── README.md # You are here!
-
+```
 
 ---
 
